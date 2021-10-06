@@ -11,6 +11,7 @@ public class gpredicates {
 
         // Calling Predicate method
         System.out.println(lesserThan.test(10));
+
     }
 }
 
